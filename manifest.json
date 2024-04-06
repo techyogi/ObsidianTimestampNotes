@@ -6,5 +6,5 @@
 	"description": "This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from.",
 	"author": "Julian Grunauer",
 	"authorUrl": "https://github.com/juliang22/ObsidianTimestampNotes",
-	"isDesktopOnly": true
+	"isDesktopOnly": false
 }
